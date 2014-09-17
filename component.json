@@ -1,0 +1,10 @@
+{
+    "name": "gazira-casecade",
+    "version": "0.0.1",
+    "main": "index.js",
+    "dependencies": {
+        "component/jquery": "1.0.0",
+        "gazira/widget": "master",
+        "gazira/ajax.single": "master"
+    }
+}
